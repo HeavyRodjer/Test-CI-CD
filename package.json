@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  }
+}
